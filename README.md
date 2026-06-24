@@ -1,4 +1,5 @@
-# Hi, I'm Aditya Kushwaha 👋
+# Hey, I'm Aditya Kushwaha.👋
+### I build robots, drones, and occasionally things that shouldn't work but somehow do.
 
 🎓 B.Tech CSE (AI & ML) @ GL Bajaj Institute of Technology and Management
 
