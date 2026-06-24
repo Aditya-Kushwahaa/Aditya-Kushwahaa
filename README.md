@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Aditya Kushwaha 👋
 
-<!--
-**Aditya-Kushwahaa/Aditya-Kushwahaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) @ GL Bajaj Institute of Technology and Management
 
-Here are some ideas to get you started:
+🤖 Robotics Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚁 Drone Builder
+
+🦾 Embedded Systems Developer
+
+👁️ Computer Vision Learner
+
+---
+
+## 🚀 Current Projects
+
+- Quadruped Spider Robot
+- Robotic Arm
+- Hand Gesture Controlled Car
+- Smart Temperature Controlled Fan
+- RC Car using FlySky FS-i6
+- Drone Development
+
+---
+
+## 🛠️ Skills
+
+- Arduino
+- ESP32
+- Python
+- OpenCV
+- Git & GitHub
+- Embedded Systems
+
+---
+
+## 📚 Currently Learning
+
+- ROS2
+- Computer Vision
+- Autonomous Robotics
+- Drone Systems
+
+---
+
+## 🎯 Goal
+
+To become a Robotics and Autonomous Systems Engineer and build intelligent drones and robots.
+
+---
+
+📍 Greater Noida, India
