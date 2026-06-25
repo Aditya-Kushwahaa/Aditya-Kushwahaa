@@ -71,7 +71,7 @@
 
 Beyond code, circuits, and algorithms, I'm fascinated by space exploration, entrepreneurship, and the future of innovation. I enjoy collecting Hot Wheels, experimenting with new ideas, and turning ambitious concepts into reality. I believe the best engineers aren't just builders—they're dreamers who dare to create what doesn't exist yet.
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
 
 ---
