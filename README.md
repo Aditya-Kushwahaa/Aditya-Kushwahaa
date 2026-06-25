@@ -1,4 +1,4 @@
-# Hey, I'm Aditya Kushwaha <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
+# Hey, I'm Aditya Kushwaha  <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 ### I build robots, drones and occasionally things that shouldn't work but somehow do.
 
 🎓 B.Tech CSE (AI & ML) @ GL Bajaj Institute of Technology and Management
