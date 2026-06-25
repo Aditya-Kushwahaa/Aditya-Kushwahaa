@@ -24,29 +24,12 @@
 
 ---
 
-## 🛠️ Skills
-
-- Arduino
-- ESP32
-- Python
-- OpenCV
-- Git & GitHub
-- Embedded Systems
-
----
-
 ## 📚 Currently Learning
 
 - ROS2
 - Computer Vision
 - Autonomous Robotics
 - Drone Systems
-
----
-
-## 🎯 Goal
-
-To become a Robotics and Autonomous Systems Engineer and build intelligent drones and robots.
 
 ---
 
