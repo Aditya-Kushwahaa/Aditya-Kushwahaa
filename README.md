@@ -56,6 +56,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya-Kushwahaa&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya-Kushwahaa&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
