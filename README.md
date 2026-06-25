@@ -65,5 +65,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Aditya-Kushwahaa&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aditya-Kushwahaa&icon=0&color=7)](https://visitcount.itsvg.in)
 [![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
